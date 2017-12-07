@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 # -> This perl script opens database named: "db1.db". If db1.db does not exsists, it creates a new one.
 # -> Inserts values into the table which was already created in the database
 

@@ -1,5 +1,3 @@
-#!/usr/bin/perl
-
 # -> This script prints out the data from the newly created table: table_data
 
 use DBI;

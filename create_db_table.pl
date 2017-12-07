@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 # -> This perl script opens database named: "db1.db". If db1.db does not exsists, it creates a new one.
 # -> Once the database is opened/created, a new table: "table_data" is created with columns ID, FIRST_NAME, LAST_NAME and HOME.
 
